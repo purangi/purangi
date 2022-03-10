@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 개발을 공부하는 김유원입니다! 👋
 
 <!--
 **purangi/purangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📕 Main Portfolio : [2020111378김유원_포트폴리오.pdf](https://github.com/purangi/purangi/files/8224073/2020111378._.pdf)
