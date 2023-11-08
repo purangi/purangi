@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕 Main Portfolio : [김유원_포트폴리오.pdf](https://github.com/purangi/purangi/files/11526956/_.pdf)
-
+📕 Main Portfolio : [김유원_포트폴리오.pdf](https://github.com/purangi/purangi/files/13299033/_.pdf)
