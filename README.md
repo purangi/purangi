@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕 Main Portfolio : [김유원_포트폴리오.pdf](https://github.com/purangi/purangi/files/13299033/_.pdf)
+📕 Main Portfolio : [프로그래밍직군_김유원_포트폴리오.pdf](https://github.com/purangi/purangi/files/14623438/_._.pdf)
 
+🔭 I’m currently working on ...https://github.com/dch1114/GemChronicle
+
+### 커밋 규칙
 ```
 feat	새로운 기능에 대한 커밋  
 fix	버그 수정에 대한 커밋  
