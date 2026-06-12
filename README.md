@@ -1,4 +1,4 @@
-### 안녕하세요. 개발을 공부하는 김유원입니다! 👋
+### 안녕하세요. 게임 클라이언트 개발자 김유원입니다! 👋
 
 <!--
 **purangi/purangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 📕 Main Portfolio : [프로그래밍직군_김유원_포트폴리오.pdf][portfolio_kimyuwon.pdf](https://github.com/user-attachments/files/28862162/portfolio_kimyuwon.pdf)
-
-🔭 I’m currently working on ...https://github.com/dch1114/GemChronicle
 
 ### 커밋 규칙
 ```
