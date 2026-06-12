@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕 Main Portfolio : [프로그래밍직군_김유원_포트폴리오.pdf](https://github.com/purangi/purangi/files/15369166/default.pdf)
-
+📕 Main Portfolio : [프로그래밍직군_김유원_포트폴리오.pdf][portfolio_kimyuwon.pdf](https://github.com/user-attachments/files/28862162/portfolio_kimyuwon.pdf)
 
 🔭 I’m currently working on ...https://github.com/dch1114/GemChronicle
 
